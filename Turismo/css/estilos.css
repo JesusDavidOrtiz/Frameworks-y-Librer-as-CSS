@@ -1,0 +1,40 @@
+.logo{
+  padding-top: 1rem;
+  border-radius: 30px 20px;
+  border-style: dotted;
+  border: 1px gray;
+}
+
+nav{
+  background-color: hsla(360, 100%, 100%, 0);
+}
+
+.btn-small{
+  font-size: 0.7em !important;
+}
+
+
+
+.social{
+  border-radius: 10px 10px;
+
+}
+
+#autor{
+  width: 60%;
+  margin-left: auto ;
+  margin-right: auto;
+}
+
+a{
+  margin-left: 5px !important;
+  margin-right: 5px !important;
+}
+
+.fondo{
+  width: 100%;
+  background-image: url("../img/bg1.png"),url("../img/bg2.jpg");
+  background-repeat: no-repeat,no-repeat;
+  background-size: contain,cover;
+  background-attachment: fixed,fixed;
+}
